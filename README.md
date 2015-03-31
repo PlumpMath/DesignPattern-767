@@ -1,7 +1,8 @@
 # DesignPattern
-Design Pattern, OO, Java, Attribute, Method, Class, Object, Interface
+Design Pattern, OO, Java, Attribute, Method, Class, Object, Interface, UML
 
 Don't repeat yourself.
+继承，实现，依赖，关联，聚合，组合
 
 ### 六大设计原则
 ##### 单一职责原则
