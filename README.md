@@ -63,7 +63,12 @@ Don't repeat yourself.
 
 ### 命令模式
 
-### 状态模式
+### 状态模式(State)
+状态和行为
+所谓对象的状态，通常指的就是对象实例的属性的值。而行为指的是对象的功能。
+状态--属性
+行为--方法
+状态决定行为。
 
 ### 组合模式
 
@@ -80,6 +85,12 @@ Don't repeat yourself.
 
 ### 访问者模式
 
+
+###UML常用图
+用例图(User Case Diagram)
+类图(Class Diagram)
+时序图(Sequence Diagram)
+流程图(Activity Diagram)
 
 
 
