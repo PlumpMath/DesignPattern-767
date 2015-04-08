@@ -24,17 +24,17 @@ Don't repeat yourself.
 由超类主控一切，当它们需要的时候，自然会去调用子类，这就跟好莱坞一样。
 
 
-### 工厂方法模式
+### 工厂方法模式(Factory Method)
+创建对象
 
-### 抽象工厂模式
+### 抽象工厂模式(Abstract Factory)
 创建产品族.
 
-### 抽象工厂模式
+### 原型模式(Prototype)
+克隆对象
 
-### 原型模式
-
-### 单例模式
- 
+### 单例模式(Singleton)
+保证一个类只生成一个实例 
 
 ### 模板方法模式(Template Method)
 在一个方法中定义一个算法的骨架，而将一些步骤延迟到子类中。模板方法使得子类可以在不改变算法结构的情况下，重新定义算法中的某些步骤。
@@ -51,17 +51,18 @@ Don't repeat yourself.
 
 
 ### 外观模式(Facade)
+整合各个子系统的接口，开放出来一个友好的接口出来。
 
-
-### 策略模式
-
+### 策略模式(Strategy)
+可自由切换的算法实现。
 
 ### 观察者模式(Observer)
 观察者模式的本质：触发联动。
 订阅模式
 
 
-### 命令模式
+### 命令模式(Command)
+把方法调用封装成对象。
 
 ### 状态模式(State)
 状态和行为
@@ -70,27 +71,30 @@ Don't repeat yourself.
 行为--方法
 状态决定行为。
 
-### 组合模式
+### 组合模式(Composite)
+统一的接口处理树形结构。
 
-### 装饰器模式
+### 装饰器模式(Decorator)
+动态扩展或增强对象的功能。
 
 ### 代理模式(Proxy)
 代理模式的主要目的是控制对对象的访问。
 
-### 中介模式
+### 中介模式(Mediator)
 
-### 桥梁模式
+### 桥梁模式(Bridge)
 
-### 迭代器模式
+### 迭代器模式(Iterator)
 
-### 访问者模式
+### 访问者模式(Visitor)
 
 
 ###UML常用图
-用例图(User Case Diagram)
-类图(Class Diagram)
-时序图(Sequence Diagram)
-流程图(Activity Diagram)
+##### 用例图(User Case Diagram)
+##### 类图(Class Diagram)
+##### 时序图(Sequence Diagram)
+##### 流程图(Activity Diagram)
+##### 部署图(Deployment Diagram)
 
 
 
