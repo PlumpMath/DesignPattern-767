@@ -24,6 +24,14 @@ Don't repeat yourself.
 由超类主控一切，当它们需要的时候，自然会去调用子类，这就跟好莱坞一样。
 
 
+###UML常用图
+##### 用例图(User Case Diagram)
+##### 类图(Class Diagram)
+##### 时序图(Sequence Diagram)
+##### 流程图(Activity Diagram)
+##### 部署图(Deployment Diagram)
+
+
 ### 工厂方法模式(Factory Method)
 创建对象
 
@@ -89,15 +97,9 @@ Don't repeat yourself.
 ### 访问者模式(Visitor)
 
 
-###UML常用图
-##### 用例图(User Case Diagram)
-##### 类图(Class Diagram)
-##### 时序图(Sequence Diagram)
-##### 流程图(Activity Diagram)
-##### 部署图(Deployment Diagram)
-
-
-
+### 享元模式(Flyweight)
+- 享元模式的优点是：减少对象数量，节省内存空间。
+- 享元模式的本质：分离与共享。
 
 
 
